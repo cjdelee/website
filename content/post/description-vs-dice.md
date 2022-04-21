@@ -8,7 +8,6 @@ categories: ['GM Advice']
 tags: ['Players', 'Opinion', 'Game Style']
 
 ---
-Adding more text here
 Which of the following examples of play sounds better to you?
 
 **Example 1**
