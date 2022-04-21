@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on Return of the Modular Adventure</title>
+        <link>http://example.org/tags/</link>
+        <description>Recent content in Tags on Return of the Modular Adventure</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 21 Apr 2022 12:34:45 -0700</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Dungeon</title>
+        <link>http://example.org/tags/dungeon/</link>
+        <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
+        
+        <guid>http://example.org/tags/dungeon/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Low-Level</title>
+        <link>http://example.org/tags/low-level/</link>
+        <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
+        
+        <guid>http://example.org/tags/low-level/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>New GMs</title>
+        <link>http://example.org/tags/new-gms/</link>
+        <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
+        
+        <guid>http://example.org/tags/new-gms/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Lets Build</title>
+        <link>http://example.org/tags/lets-build/</link>
+        <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
+        
+        <guid>http://example.org/tags/lets-build/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Game Style</title>
+        <link>http://example.org/tags/game-style/</link>
+        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
+        
+        <guid>http://example.org/tags/game-style/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Opinion</title>
+        <link>http://example.org/tags/opinion/</link>
+        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
+        
+        <guid>http://example.org/tags/opinion/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Players</title>
+        <link>http://example.org/tags/players/</link>
+        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
+        
+        <guid>http://example.org/tags/players/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

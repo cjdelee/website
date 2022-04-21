@@ -1,0 +1,74 @@
+baseURL: 'http://www.returnofthemodulardungeon.com/'
+languageCode: en-us
+title: Return of the Modular Adventure
+paginate: 5
+theme: stack
+
+Author:
+  name: C. J. DeLee
+  bio: This is my bio
+
+Params:
+  subtitle: Subtitle
+  description: Description
+  
+  footer:
+    since: 2022
+    customText: "This is NEW custom text in the footer"
+
+  dateFormat:
+    published: Jan 02, 2006
+    lastUpdated: Jan 02, 2006 15:04 MST
+
+  sidebar:
+    compact: false
+    emoji:
+    subtitle: "A place to find tools and advice for running smaller, modular adventures for the world's most popular role-playing game!"
+    avatar:
+      enabled: true
+      local: true
+      src: img/avatar.jpg
+
+  widgets:
+    homepage:
+      - type: search
+      - type: archives
+        params:
+          limit: 5
+      - type: categories
+        params:
+          limit: 10
+      - type: tag-cloud
+        params:
+          limit: 10
+  
+  colorScheme:
+    toggle: true
+    default: auto
+
+taxonomies:
+  tags: tags
+  categories: categories
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: '1'
+      params:
+        icon: home
+    - name: About
+      url: /about
+      weight: '2'
+      params:
+        icon: user
+    - name: Adventures
+      url: /adventures
+      weight: '3'
+      params:
+        icon: archives
+    - name: Search
+      url: /search
+      weight: '4'
+      params:
+        icon: search

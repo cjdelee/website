@@ -1,0 +1,27 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Return of the Modular Adventure'
+paginate = "10"
+theme = "stack"
+[Author]
+	name = "C. J. DeLee"
+	bio = "This is my bio"
+[Params]
+	subtitle = "Site subtitle (config.toml)"
+	description = "Site description (config.toml)"
+[taxonomies]
+	tags = "tags"
+	categories = "categories"
+[[menu.main]]
+	name = "Home"
+	url = "/"
+	weight = 1
+[[menu.main]]
+	name = "About"
+	url = "/about"
+	weight = 2 
+[[menu.main]]
+	name = "Adventures"
+	url = "/adventures"
+	weight = 3
+
