@@ -57,7 +57,7 @@ Which of the following examples of play sounds better to you?
 
 If you would prefer to run the game as the first example, then this post is not for you. I'm not saying there is anything objectively incorrect about playing any game following the sequence found in Example 1. We all enjoy the hobby in different ways, and that's great! But this article is going to explore how we might get a bit more creative enjoyment out of the game by relying less on our character sheets and dice and more on our own creativity and imagination.
 
-### Descriptions or Dice? That is the Question
+## Descriptions or Dice? That is the Question
 While playing TTRPGs, many, *many* things are seemingly meant to be resolved using dice and numbers on a character sheet. Want to hit the ogre with your sword? Roll for an attack. Trying to scale a sheer cliff? Roll an Athletics check. Bluffing your way past the guards into the palace? Roll a Deception check. These mechanics are designed to give us a way to determine an outcome for any given situation where there is the chance for failure.
 
 That's all well and good, but this can quickly lead players to using their character sheets and the numbers as a crutch. Need to identify the magic potion you just found? Just roll some dice and get an answer. 

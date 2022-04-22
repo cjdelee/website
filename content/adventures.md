@@ -6,6 +6,8 @@ url: /adventures/
 draft: false
 
 ---
+View the full archive of adventures [here](/adventures-archive)
+
 This page will host links to all adventures that people can read about and download to run in their campaigns.
 
 ### The Sewer-Smugglers Syndicate

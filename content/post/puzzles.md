@@ -13,10 +13,13 @@ Let's set the scene: You have been preparing your next game session *for weeks* 
 
 Fast forward to game night, and everything falls apart. Why? The entire 4 hour session is spent with the players banging their heads against a wall ceaslessly trying to piece together your masterful puzzle. They can't figure it out, so they're mad, and you think that the puzzle should have been solved **hours** ago, so now you're mad too! At the end of the night, everyone goes home unsatisfied. Try again next week, I suppose?
 
-### Why Do We *Want* Puzzles?
+## Why Do We *Want* Puzzles?
 Every single GM at some point in their career has thought to themselves: "Ooooh, this would be the *perfect* time to include a nice, fun puzzle!". And that's perfectly valid! I've had the same thoughts and desires in the past. We want to challenge our players in a new way. Sure, we can throw some monsters or a trap at them, but those are simply tools to deplete resources before the big encounter at the end of the adventure. A puzzle, on the other hand, gives us the chance to challenge our players *minds* instead of their character sheets.
 
 I feel it is also more often than not that the situation outline above happens: we think of a great puzzle that's not *too* challenging, but just challenging enough to be satisfying, and the players *still* can't figure it out to save their lives. 
-### Do You *Need* Puzzles?
 
-### How to Make Puzzles Work
+## Do You *Need* Puzzles?
+The short answer is no. You don't *need* to include puzzles in your dungeons to have a fulfilling game experience. You could run an entire multi-year campaign without a single puzzle and it could still be the best game you've ever run. As with almost every aspect of this hobby, it's up to you and your players what bits and pieces you use. If puzzles don't fit the game you are running, don't use 'em!
+
+## How to Make Puzzles Work
+Alright, so you've decided that you do want puzzles in your game. That's great! We're going to go through how I think puzzles can be added to a game effectively.
