@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 type: post
 date: {{ .Date }}
-url: /{{ .Name }}/
+url: /post/{{ .Name }}/
 draft: false
 
 categories: ['GM Advice', 'Adventure', 'GM Tool']

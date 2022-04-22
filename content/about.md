@@ -6,5 +6,5 @@ url: /about/
 draft: false 
 
 ---
-### About Return of the Modular Adventure
+# About Return of the Modular Adventure
 This is where I will put all of the about information. What is a "modular adventure"? How does it work? Why should I do this?What else can I find on this site?
