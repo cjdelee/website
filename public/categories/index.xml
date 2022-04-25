@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Return of the Modular Adventure</title>
-        <link>http://example.org/categories/</link>
+        <link>http://www.returnofthemodulardungeon.com/categories/</link>
         <description>Recent content in Categories on Return of the Modular Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 21 Apr 2022 12:34:45 -0700</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Apr 2022 08:05:43 -0700</lastBuildDate><atom:link href="http://www.returnofthemodulardungeon.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Adventure</title>
-        <link>http://example.org/categories/adventure/</link>
-        <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
+        <link>http://www.returnofthemodulardungeon.com/categories/adventure/</link>
+        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
         
-        <guid>http://example.org/categories/adventure/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/categories/adventure/</guid>
         <description></description>
         </item>
         <item>
         <title>GM Advice</title>
-        <link>http://example.org/categories/gm-advice/</link>
-        <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
+        <link>http://www.returnofthemodulardungeon.com/categories/gm-advice/</link>
+        <pubDate>Fri, 22 Apr 2022 10:55:31 -0700</pubDate>
         
-        <guid>http://example.org/categories/gm-advice/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/categories/gm-advice/</guid>
         <description></description>
         </item>
         <item>
         <title>Lets Build</title>
-        <link>http://example.org/categories/lets-build/</link>
+        <link>http://www.returnofthemodulardungeon.com/categories/lets-build/</link>
         <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
         
-        <guid>http://example.org/categories/lets-build/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/categories/lets-build/</guid>
         <description></description>
         </item>
         

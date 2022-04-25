@@ -3,7 +3,7 @@ title: "Description or Dice"
 type: post
 date: 2022-04-20T10:24:42-07:00
 url: /description-vs-dice/
-draft: false
+draft: true
 categories: ['GM Advice']
 tags: ['Players', 'Opinion', 'Game Style']
 
@@ -60,4 +60,4 @@ If you would prefer to run the game as the first example, then this post is not 
 ## Descriptions or Dice? That is the Question
 While playing TTRPGs, many, *many* things are seemingly meant to be resolved using dice and numbers on a character sheet. Want to hit the ogre with your sword? Roll for an attack. Trying to scale a sheer cliff? Roll an Athletics check. Bluffing your way past the guards into the palace? Roll a Deception check. These mechanics are designed to give us a way to determine an outcome for any given situation where there is the chance for failure.
 
-That's all well and good, but this can quickly lead players to using their character sheets and the numbers as a crutch. Need to identify the magic potion you just found? Just roll some dice and get an answer. 
+That's all well and good, but this can quickly lead players to using their character sheets and the numbers as a crutch. Need to identify the magic potion you just found? Just roll some dice and get an answer.

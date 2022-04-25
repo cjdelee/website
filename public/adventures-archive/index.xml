@@ -2,25 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Adventures-archives on Return of the Modular Adventure</title>
-        <link>http://example.org/adventures-archive/</link>
+        <link>http://www.returnofthemodulardungeon.com/adventures-archive/</link>
         <description>Recent content in Adventures-archives on Return of the Modular Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 21 Apr 2022 12:34:45 -0700</lastBuildDate><atom:link href="http://example.org/adventures-archive/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Apr 2022 08:05:43 -0700</lastBuildDate><atom:link href="http://www.returnofthemodulardungeon.com/adventures-archive/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Enter the Strange</title>
+        <link>http://www.returnofthemodulardungeon.com/adventures-archive/enter-the-strange/</link>
+        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
+        
+        <guid>http://www.returnofthemodulardungeon.com/adventures-archive/enter-the-strange/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/adventures-archive&#34; &gt;Back to the Archives&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>The Sewer-Smugglers Syndicate</title>
-        <link>http://example.org/adventures-archive/sewer-smugglers-syndicate/</link>
+        <link>http://www.returnofthemodulardungeon.com/adventures-archive/sewer-smugglers-syndicate/</link>
         <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
         
-        <guid>http://example.org/adventures-archive/sewer-smugglers-syndicate/</guid>
-        <description>
+        <guid>http://www.returnofthemodulardungeon.com/adventures-archive/sewer-smugglers-syndicate/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/adventures-archive&#34; &gt;Back to the Archives&lt;/a&gt;
 
-&lt;object data=&#34;/pdf/isometric-paper.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
-&lt;embed src=&#34;http://example.org/pdf/isometric-paper.pdf&#34;&gt;
-&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://example.org/pdf/isometric-paper.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;object data=&#34;/img/isometric-paper.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+&lt;embed src=&#34;http://www.returnofthemodulardungeon.com/img/isometric-paper.pdf&#34;&gt;
+&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://www.returnofthemodulardungeon.com/img/isometric-paper.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/embed&gt;
 &lt;/object&gt;
 
-
+&lt;/p&gt;
 </description>
         </item>
         

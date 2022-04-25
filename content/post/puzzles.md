@@ -3,9 +3,9 @@ title: "The Problem with Puzzles"
 type: post
 date: 2022-04-19T13:52:03-07:00
 url: /post/problem-with-puzzles/
-draft: false
+draft: true
 categories: ['GM Advice']
-tags: ['Opinion', 'Game Style', 'Campaign Advice'] 
+tags: ['Opinion', 'Game Style', 'Campaign Advice']
 
 ---
 
@@ -16,7 +16,7 @@ Fast forward to game night, and everything falls apart. Why? The entire 4 hour s
 ## Why Do We *Want* Puzzles?
 Every single GM at some point in their career has thought to themselves: "Ooooh, this would be the *perfect* time to include a nice, fun puzzle!". And that's perfectly valid! I've had the same thoughts and desires in the past. We want to challenge our players in a new way. Sure, we can throw some monsters or a trap at them, but those are simply tools to deplete resources before the big encounter at the end of the adventure. A puzzle, on the other hand, gives us the chance to challenge our players *minds* instead of their character sheets.
 
-I feel it is also more often than not that the situation outline above happens: we think of a great puzzle that's not *too* challenging, but just challenging enough to be satisfying, and the players *still* can't figure it out to save their lives. 
+I feel it is also more often than not that the situation outline above happens: we think of a great puzzle that's not *too* challenging, but just challenging enough to be satisfying, and the players *still* can't figure it out to save their lives.
 
 ## Do You *Need* Puzzles?
 The short answer is no. You don't *need* to include puzzles in your dungeons to have a fulfilling game experience. You could run an entire multi-year campaign without a single puzzle and it could still be the best game you've ever run. As with almost every aspect of this hobby, it's up to you and your players what bits and pieces you use. If puzzles don't fit the game you are running, don't use 'em! A good way to know if puzzles will work with your campaign is to get some **player buy-in**.
@@ -36,6 +36,5 @@ Knowing where you're players will end up will help to inform you on how they get
 Once you know where you are going, you can start to figure out how your players will get there. This is what most people think of when imagining designing a puzzle for their players. It's also the most fun part! This is where you can get *really* creative with your puzzles. What buttons need to be pressed to make the thing do the other thing? That's what we get to create!
 
 If you're anything like me as a GM, one of your first worries will be "How can I make this puzzle realistic?" In reality, you can't. The real world doesn't really operate on Indiana Jones rules when it comes to puzzles. But that's OK, because we don't need to worry about *realism*. All we need to worry about is *verisimilitude* ([Realism vs. Verisimilitude](/post/realism-verisimilitude)). Our puzzle doesn't need to be realistic, just believable. If our players *believe* that this puzzle *could* exist in this world, then we've succeeded.
- 
-### Clue Them In
 
+### Clue Them In

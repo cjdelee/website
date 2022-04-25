@@ -2,16 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>GM Advice on Return of the Modular Adventure</title>
-        <link>http://example.org/categories/gm-advice/</link>
+        <link>http://www.returnofthemodulardungeon.com/categories/gm-advice/</link>
         <description>Recent content in GM Advice on Return of the Modular Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 21 Apr 2022 11:46:05 -0700</lastBuildDate><atom:link href="http://example.org/categories/gm-advice/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 22 Apr 2022 10:55:31 -0700</lastBuildDate><atom:link href="http://www.returnofthemodulardungeon.com/categories/gm-advice/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Let&#39;s Talk About Session 0</title>
+        <link>http://www.returnofthemodulardungeon.com/post/session-0/</link>
+        <pubDate>Fri, 22 Apr 2022 10:55:31 -0700</pubDate>
+        
+        <guid>http://www.returnofthemodulardungeon.com/post/session-0/</guid>
+        <description>&lt;p&gt;Article about Session 0!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Let&#39;s Build: A Dungeon</title>
-        <link>http://example.org/lets-build-a-dungeon/</link>
+        <link>http://www.returnofthemodulardungeon.com/lets-build-a-dungeon/</link>
         <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
         
-        <guid>http://example.org/lets-build-a-dungeon/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/lets-build-a-dungeon/</guid>
         <description>&lt;p&gt;When you are designing a new dungeon for an adventure to include in your campaign, I want you to ask yourself 3 questions:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;What is this place &lt;em&gt;supposed&lt;/em&gt; to be used for?&lt;/li&gt;
@@ -19,21 +28,21 @@
 &lt;li&gt;What was this placed used for before now?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Starting with just these 3 questions can really begin to flesh out the history of your dungeon, as well as provide you with ideas and inspiration that can be used when actually designing. For example, let&amp;rsquo;s build a sewer dungeon (that answers question number 1 for us already!)&lt;/p&gt;
-&lt;h3 id=&#34;question-1-what-is-this-place-supposed-to-be-used-for&#34;&gt;Question 1: What is this Place &lt;em&gt;Supposed&lt;/em&gt; to be Used for?&lt;/h3&gt;
+&lt;h2 id=&#34;question-1-what-is-this-place-supposed-to-be-used-for&#34;&gt;Question 1: What is this Place &lt;em&gt;Supposed&lt;/em&gt; to be Used for?&lt;/h2&gt;
 &lt;p&gt;What is this place &lt;em&gt;supposed&lt;/em&gt; to be used for? It&amp;rsquo;s a sewer system. We can expect dark, damp corridors with running, filthy water, grimy walls, and lots of rusted-shut iron doors blocking our way. Maybe there will be a few rooms designed for the sewer cleaners, stocked with cleaning instruments and lanterns. This question will drive the overall look and feel of the dungeon as this is what this place was built for to begin with.&lt;/p&gt;
 &lt;p&gt;Be sure to make some notes on not just the &lt;em&gt;look&lt;/em&gt; of the dungeon, but the &lt;em&gt;sounds&lt;/em&gt; and &lt;em&gt;smells&lt;/em&gt; too! We have more than just one sense we use. As a GM, when it comes to describing your dungeon, you should always strive for using all 5 senses. You will most often use sight since that is the easiest to describe, but I challenge you to go further. What do the sewers smell like? What disgusting squelching sounds do the heroes hear as they traverse the sewage tunnels? What do the slimy, moss-covered walls feel like? The &lt;em&gt;really&lt;/em&gt; challenging sense to describe is going to be taste; good luck including that one!&lt;/p&gt;
-&lt;h3 id=&#34;question-2-what-is-this-place-actually-being-used-for&#34;&gt;Question 2: What is this Place &lt;em&gt;Actually&lt;/em&gt; Being Used for?&lt;/h3&gt;
+&lt;h2 id=&#34;question-2-what-is-this-place-actually-being-used-for&#34;&gt;Question 2: What is this Place &lt;em&gt;Actually&lt;/em&gt; Being Used for?&lt;/h2&gt;
 &lt;p&gt;Next question: What is this place &lt;em&gt;actually&lt;/em&gt; being used for? Now we are getting more complex. Don&amp;rsquo;t be afraid to introduce some &lt;em&gt;wild&lt;/em&gt; elements to answer this question. What else is going on in these sewers?? Are they being used by a group of smugglers to move contraband in and out of the city? Have a group of cultists set up a base of operations here so they may easily nab citizens from above for their sacrificial rituals? Has a deep rift formed here where horrors from the Underdark are now finding their way to the surface? Again, go wild!&lt;/p&gt;
-&lt;h3 id=&#34;question-3-what-was-this-place-used-for-before-now&#34;&gt;Question 3: What was this Place Used for Before Now?&lt;/h3&gt;
+&lt;h2 id=&#34;question-3-what-was-this-place-used-for-before-now&#34;&gt;Question 3: What was this Place Used for Before Now?&lt;/h2&gt;
 &lt;p&gt;This is where we will add in our third and final element to really cement and diversify our dungeon. This question asks who was here before? Or, more accurately: what was going on here that is no longer? In our sewer example, maybe some time ago, a powerful wizard or alchemist was using the sewers as a hidden lab. What would they have built down here? Some secret rooms hidden behind magical, illusory walls? Maybe they placed some magical rune traps that are still present, or maybe they constructed a golem to protect their lab that is still activated, wandering the sewage passages. This final element should clue your players into what strange and out-of-place sights they might find, and &lt;em&gt;why&lt;/em&gt; they are finding them.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Description or Dice</title>
-        <link>http://example.org/description-vs-dice/</link>
+        <link>http://www.returnofthemodulardungeon.com/description-vs-dice/</link>
         <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
         
-        <guid>http://example.org/description-vs-dice/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/description-vs-dice/</guid>
         <description>&lt;p&gt;Which of the following examples of play sounds better to you?&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example 1&lt;/strong&gt;&lt;/p&gt;
 &lt;blockquote&gt;
@@ -62,24 +71,35 @@
 &lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;p&gt;If you would prefer to run the game as the first example, then this post is not for you. I&amp;rsquo;m not saying there is anything objectively incorrect about playing any game following the sequence found in Example 1. We all enjoy the hobby in different ways, and that&amp;rsquo;s great! But this article is going to explore how we might get a bit more creative enjoyment out of the game by relying less on our character sheets and dice and more on our own creativity and imagination.&lt;/p&gt;
-&lt;h3 id=&#34;descriptions-or-dice-that-is-the-question&#34;&gt;Descriptions or Dice? That is the Question&lt;/h3&gt;
+&lt;h2 id=&#34;descriptions-or-dice-that-is-the-question&#34;&gt;Descriptions or Dice? That is the Question&lt;/h2&gt;
 &lt;p&gt;While playing TTRPGs, many, &lt;em&gt;many&lt;/em&gt; things are seemingly meant to be resolved using dice and numbers on a character sheet. Want to hit the ogre with your sword? Roll for an attack. Trying to scale a sheer cliff? Roll an Athletics check. Bluffing your way past the guards into the palace? Roll a Deception check. These mechanics are designed to give us a way to determine an outcome for any given situation where there is the chance for failure.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all well and good, but this can quickly lead players to using their character sheets and the numbers as a crutch. Need to identify the magic potion you just found? Just roll some dice and get an answer.&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>The Problem with Puzzles</title>
-        <link>http://example.org/post/problem-with-puzzles/</link>
+        <link>http://www.returnofthemodulardungeon.com/post/problem-with-puzzles/</link>
         <pubDate>Tue, 19 Apr 2022 13:52:03 -0700</pubDate>
         
-        <guid>http://example.org/post/problem-with-puzzles/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/post/problem-with-puzzles/</guid>
         <description>&lt;p&gt;Let&amp;rsquo;s set the scene: You have been preparing your next game session &lt;em&gt;for weeks&lt;/em&gt; now and it is complete. The party is getting ready to dive head first into an evil mage&amp;rsquo;s lair to put a stop to their nefarious plot before it&amp;rsquo;s too late. You&amp;rsquo;ve mapped the dungeon, placed the traps and treasure, stocked your wandering monster and encounter tables, and built out just about every single thing you could think of. And, the &lt;em&gt;piece de resistance&lt;/em&gt;: a beautifully devious and challenging puzzle to mess with your players&amp;rsquo; brains. It is the PERFECT set piece for your big bad.&lt;/p&gt;
 &lt;p&gt;Fast forward to game night, and everything falls apart. Why? The entire 4 hour session is spent with the players banging their heads against a wall ceaslessly trying to piece together your masterful puzzle. They can&amp;rsquo;t figure it out, so they&amp;rsquo;re mad, and you think that the puzzle should have been solved &lt;strong&gt;hours&lt;/strong&gt; ago, so now you&amp;rsquo;re mad too! At the end of the night, everyone goes home unsatisfied. Try again next week, I suppose?&lt;/p&gt;
-&lt;h3 id=&#34;why-do-we-want-puzzles&#34;&gt;Why Do We &lt;em&gt;Want&lt;/em&gt; Puzzles?&lt;/h3&gt;
+&lt;h2 id=&#34;why-do-we-want-puzzles&#34;&gt;Why Do We &lt;em&gt;Want&lt;/em&gt; Puzzles?&lt;/h2&gt;
 &lt;p&gt;Every single GM at some point in their career has thought to themselves: &amp;ldquo;Ooooh, this would be the &lt;em&gt;perfect&lt;/em&gt; time to include a nice, fun puzzle!&amp;rdquo;. And that&amp;rsquo;s perfectly valid! I&amp;rsquo;ve had the same thoughts and desires in the past. We want to challenge our players in a new way. Sure, we can throw some monsters or a trap at them, but those are simply tools to deplete resources before the big encounter at the end of the adventure. A puzzle, on the other hand, gives us the chance to challenge our players &lt;em&gt;minds&lt;/em&gt; instead of their character sheets.&lt;/p&gt;
 &lt;p&gt;I feel it is also more often than not that the situation outline above happens: we think of a great puzzle that&amp;rsquo;s not &lt;em&gt;too&lt;/em&gt; challenging, but just challenging enough to be satisfying, and the players &lt;em&gt;still&lt;/em&gt; can&amp;rsquo;t figure it out to save their lives.&lt;/p&gt;
-&lt;h3 id=&#34;do-you-need-puzzles&#34;&gt;Do You &lt;em&gt;Need&lt;/em&gt; Puzzles?&lt;/h3&gt;
-&lt;h3 id=&#34;how-to-make-puzzles-work&#34;&gt;How to Make Puzzles Work&lt;/h3&gt;
+&lt;h2 id=&#34;do-you-need-puzzles&#34;&gt;Do You &lt;em&gt;Need&lt;/em&gt; Puzzles?&lt;/h2&gt;
+&lt;p&gt;The short answer is no. You don&amp;rsquo;t &lt;em&gt;need&lt;/em&gt; to include puzzles in your dungeons to have a fulfilling game experience. You could run an entire multi-year campaign without a single puzzle and it could still be the best game you&amp;rsquo;ve ever run. As with almost every aspect of this hobby, it&amp;rsquo;s up to you and your players what bits and pieces you use. If puzzles don&amp;rsquo;t fit the game you are running, don&amp;rsquo;t use &amp;rsquo;em! A good way to know if puzzles will work with your campaign is to get some &lt;strong&gt;player buy-in&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;player-buy-in&#34;&gt;Player Buy-In&lt;/h3&gt;
+&lt;p&gt;This is something that should be brought up during a session 0 (check out my thoughts on session 0&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/post/session-0&#34; &gt;here&lt;/a&gt;!) When discussing the campaign you are wanting to run, you should bring up puzzles. Ask your players what their thoughts are, if they would even like puzzles, how often to include puzzles, and how challenging they should be. If you have a group of players that want a lot of &lt;em&gt;really&lt;/em&gt; challenging puzzles thrown their way, &lt;strong&gt;AND&lt;/strong&gt; you&amp;rsquo;re happy with running that kind of game, then that is something you should know before you start working on the bulk of the campaign.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-make-puzzles-work&#34;&gt;How to Make Puzzles Work&lt;/h2&gt;
+&lt;p&gt;Alright, so you&amp;rsquo;ve decided that you do want puzzles in your game. That&amp;rsquo;s great! We&amp;rsquo;re going to go through how I think puzzles can be added to a game effectively. As we already determined, puzzles need to be easy enough that the players aren&amp;rsquo;t banging their heads against the wall trying to figure it out, but challenging enough to be satisfying. Again, you will want to first make sure your players will get some enjoyment out of solving puzzles before you start littering your campaign with them.&lt;/p&gt;
+&lt;h3 id=&#34;start-at-the-end&#34;&gt;Start at the End&lt;/h3&gt;
+&lt;p&gt;Once you&amp;rsquo;ve established that your players actually &lt;em&gt;want&lt;/em&gt; puzzles, we can actually start building one. The best advice I can give here is to start at the end. What is the solution, the end result? Where do you want your players &lt;em&gt;to end up&lt;/em&gt; after solving the puzzle? The solution to the puzzle is the most important piece. Once the puzzle is solved, what&amp;rsquo;s going to happen? Is a secret passage going to open up? Or will the players learn some new, important information that will help them later? Does solving the puzzle open an interdimensional gate, set free an evil necromancer&amp;rsquo;s prisoner, or does it simply open the way to a treasure horde?&lt;/p&gt;
+&lt;p&gt;Knowing where you&amp;rsquo;re players will end up will help to inform you on how they get there. It can also become a great source of inspiration. Knowing what the puzzle is protecting can inform on how someone would have built the puzzle in the first place.&lt;/p&gt;
+&lt;h3 id=&#34;build-your-pieces-with-an-asterisk&#34;&gt;Build Your Pieces (with an Asterisk)&lt;/h3&gt;
+&lt;p&gt;Once you know where you are going, you can start to figure out how your players will get there. This is what most people think of when imagining designing a puzzle for their players. It&amp;rsquo;s also the most fun part! This is where you can get &lt;em&gt;really&lt;/em&gt; creative with your puzzles. What buttons need to be pressed to make the thing do the other thing? That&amp;rsquo;s what we get to create!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re anything like me as a GM, one of your first worries will be &amp;ldquo;How can I make this puzzle realistic?&amp;rdquo; In reality, you can&amp;rsquo;t. The real world doesn&amp;rsquo;t really operate on Indiana Jones rules when it comes to puzzles. But that&amp;rsquo;s OK, because we don&amp;rsquo;t need to worry about &lt;em&gt;realism&lt;/em&gt;. All we need to worry about is &lt;em&gt;verisimilitude&lt;/em&gt; (&lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/post/realism-verisimilitude&#34; &gt;Realism vs. Verisimilitude&lt;/a&gt;). Our puzzle doesn&amp;rsquo;t need to be realistic, just believable. If our players &lt;em&gt;believe&lt;/em&gt; that this puzzle &lt;em&gt;could&lt;/em&gt; exist in this world, then we&amp;rsquo;ve succeeded.&lt;/p&gt;
+&lt;h3 id=&#34;clue-them-in&#34;&gt;Clue Them In&lt;/h3&gt;
 </description>
         </item>
         

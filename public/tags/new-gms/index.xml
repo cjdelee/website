@@ -2,33 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>New GMs on Return of the Modular Adventure</title>
-        <link>http://example.org/tags/new-gms/</link>
+        <link>http://www.returnofthemodulardungeon.com/tags/new-gms/</link>
         <description>Recent content in New GMs on Return of the Modular Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 21 Apr 2022 12:34:45 -0700</lastBuildDate><atom:link href="http://example.org/tags/new-gms/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 25 Apr 2022 08:05:43 -0700</lastBuildDate><atom:link href="http://www.returnofthemodulardungeon.com/tags/new-gms/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Enter the Strange</title>
+        <link>http://www.returnofthemodulardungeon.com/adventures-archive/enter-the-strange/</link>
+        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
+        
+        <guid>http://www.returnofthemodulardungeon.com/adventures-archive/enter-the-strange/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/adventures-archive&#34; &gt;Back to the Archives&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Let&#39;s Talk About Session 0</title>
+        <link>http://www.returnofthemodulardungeon.com/post/session-0/</link>
+        <pubDate>Fri, 22 Apr 2022 10:55:31 -0700</pubDate>
+        
+        <guid>http://www.returnofthemodulardungeon.com/post/session-0/</guid>
+        <description>&lt;p&gt;Article about Session 0!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>The Sewer-Smugglers Syndicate</title>
-        <link>http://example.org/adventures-archive/sewer-smugglers-syndicate/</link>
+        <link>http://www.returnofthemodulardungeon.com/adventures-archive/sewer-smugglers-syndicate/</link>
         <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
         
-        <guid>http://example.org/adventures-archive/sewer-smugglers-syndicate/</guid>
-        <description>
+        <guid>http://www.returnofthemodulardungeon.com/adventures-archive/sewer-smugglers-syndicate/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.returnofthemodulardungeon.com/adventures-archive&#34; &gt;Back to the Archives&lt;/a&gt;
 
-&lt;object data=&#34;/pdf/isometric-paper.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
-&lt;embed src=&#34;http://example.org/pdf/isometric-paper.pdf&#34;&gt;
-&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://example.org/pdf/isometric-paper.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
+
+&lt;object data=&#34;/img/isometric-paper.pdf&#34; type=&#34;application/pdf&#34; width=&#34;700px&#34; height=&#34;700px&#34;&gt;
+&lt;embed src=&#34;http://www.returnofthemodulardungeon.com/img/isometric-paper.pdf&#34;&gt;
+&lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://www.returnofthemodulardungeon.com/img/isometric-paper.pdf&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
 &lt;/embed&gt;
 &lt;/object&gt;
 
-
+&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Let&#39;s Build: A Dungeon</title>
-        <link>http://example.org/lets-build-a-dungeon/</link>
+        <link>http://www.returnofthemodulardungeon.com/lets-build-a-dungeon/</link>
         <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
         
-        <guid>http://example.org/lets-build-a-dungeon/</guid>
+        <guid>http://www.returnofthemodulardungeon.com/lets-build-a-dungeon/</guid>
         <description>&lt;p&gt;When you are designing a new dungeon for an adventure to include in your campaign, I want you to ask yourself 3 questions:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;What is this place &lt;em&gt;supposed&lt;/em&gt; to be used for?&lt;/li&gt;
@@ -36,12 +55,12 @@
 &lt;li&gt;What was this placed used for before now?&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Starting with just these 3 questions can really begin to flesh out the history of your dungeon, as well as provide you with ideas and inspiration that can be used when actually designing. For example, let&amp;rsquo;s build a sewer dungeon (that answers question number 1 for us already!)&lt;/p&gt;
-&lt;h3 id=&#34;question-1-what-is-this-place-supposed-to-be-used-for&#34;&gt;Question 1: What is this Place &lt;em&gt;Supposed&lt;/em&gt; to be Used for?&lt;/h3&gt;
+&lt;h2 id=&#34;question-1-what-is-this-place-supposed-to-be-used-for&#34;&gt;Question 1: What is this Place &lt;em&gt;Supposed&lt;/em&gt; to be Used for?&lt;/h2&gt;
 &lt;p&gt;What is this place &lt;em&gt;supposed&lt;/em&gt; to be used for? It&amp;rsquo;s a sewer system. We can expect dark, damp corridors with running, filthy water, grimy walls, and lots of rusted-shut iron doors blocking our way. Maybe there will be a few rooms designed for the sewer cleaners, stocked with cleaning instruments and lanterns. This question will drive the overall look and feel of the dungeon as this is what this place was built for to begin with.&lt;/p&gt;
 &lt;p&gt;Be sure to make some notes on not just the &lt;em&gt;look&lt;/em&gt; of the dungeon, but the &lt;em&gt;sounds&lt;/em&gt; and &lt;em&gt;smells&lt;/em&gt; too! We have more than just one sense we use. As a GM, when it comes to describing your dungeon, you should always strive for using all 5 senses. You will most often use sight since that is the easiest to describe, but I challenge you to go further. What do the sewers smell like? What disgusting squelching sounds do the heroes hear as they traverse the sewage tunnels? What do the slimy, moss-covered walls feel like? The &lt;em&gt;really&lt;/em&gt; challenging sense to describe is going to be taste; good luck including that one!&lt;/p&gt;
-&lt;h3 id=&#34;question-2-what-is-this-place-actually-being-used-for&#34;&gt;Question 2: What is this Place &lt;em&gt;Actually&lt;/em&gt; Being Used for?&lt;/h3&gt;
+&lt;h2 id=&#34;question-2-what-is-this-place-actually-being-used-for&#34;&gt;Question 2: What is this Place &lt;em&gt;Actually&lt;/em&gt; Being Used for?&lt;/h2&gt;
 &lt;p&gt;Next question: What is this place &lt;em&gt;actually&lt;/em&gt; being used for? Now we are getting more complex. Don&amp;rsquo;t be afraid to introduce some &lt;em&gt;wild&lt;/em&gt; elements to answer this question. What else is going on in these sewers?? Are they being used by a group of smugglers to move contraband in and out of the city? Have a group of cultists set up a base of operations here so they may easily nab citizens from above for their sacrificial rituals? Has a deep rift formed here where horrors from the Underdark are now finding their way to the surface? Again, go wild!&lt;/p&gt;
-&lt;h3 id=&#34;question-3-what-was-this-place-used-for-before-now&#34;&gt;Question 3: What was this Place Used for Before Now?&lt;/h3&gt;
+&lt;h2 id=&#34;question-3-what-was-this-place-used-for-before-now&#34;&gt;Question 3: What was this Place Used for Before Now?&lt;/h2&gt;
 &lt;p&gt;This is where we will add in our third and final element to really cement and diversify our dungeon. This question asks who was here before? Or, more accurately: what was going on here that is no longer? In our sewer example, maybe some time ago, a powerful wizard or alchemist was using the sewers as a hidden lab. What would they have built down here? Some secret rooms hidden behind magical, illusory walls? Maybe they placed some magical rune traps that are still present, or maybe they constructed a golem to protect their lab that is still activated, wandering the sewage passages. This final element should clue your players into what strange and out-of-place sights they might find, and &lt;em&gt;why&lt;/em&gt; they are finding them.&lt;/p&gt;
 </description>
         </item>
