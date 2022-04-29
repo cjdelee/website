@@ -6,7 +6,7 @@ url: /adventures-archive/enter-the-strange/
 draft: true
 
 categories: ['Adventure']
-tags: ['Low Level', 'New GMs', 'Science Fantasy', 'Aberrations']
+tags: ['Low Level', 'New GMs', 'Hexcrawl', 'Science Fantasy', 'Aberrations']
 
 ---
 [Back to the Archives](/adventures-archive)

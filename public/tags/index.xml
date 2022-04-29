@@ -2,90 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Return of the Modular Adventure</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/</link>
+        <link>http://www.returnofthemodularadventure.com/tags/</link>
         <description>Recent content in Tags on Return of the Modular Adventure</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 25 Apr 2022 08:05:43 -0700</lastBuildDate><atom:link href="http://www.returnofthemodulardungeon.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Aberrations</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/aberrations/</link>
-        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/aberrations/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Low Level</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/low-level/</link>
-        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/low-level/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>New GMs</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/new-gms/</link>
-        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/new-gms/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Science Fantasy</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/science-fantasy/</link>
-        <pubDate>Mon, 25 Apr 2022 08:05:43 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/science-fantasy/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Campaign Advice</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/campaign-advice/</link>
-        <pubDate>Fri, 22 Apr 2022 10:55:31 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/campaign-advice/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Dungeon</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/dungeon/</link>
-        <pubDate>Thu, 21 Apr 2022 12:34:45 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/dungeon/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Lets Build</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/lets-build/</link>
-        <pubDate>Thu, 21 Apr 2022 11:46:05 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/lets-build/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Game Style</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/game-style/</link>
-        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/game-style/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Opinion</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/opinion/</link>
-        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/opinion/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Players</title>
-        <link>http://www.returnofthemodulardungeon.com/tags/players/</link>
-        <pubDate>Wed, 20 Apr 2022 10:24:42 -0700</pubDate>
-        
-        <guid>http://www.returnofthemodulardungeon.com/tags/players/</guid>
-        <description></description>
-        </item>
-        
+        <language>en-us</language><atom:link href="http://www.returnofthemodularadventure.com/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

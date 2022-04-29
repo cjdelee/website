@@ -1,4 +1,4 @@
-baseURL: 'http://www.returnofthemodulardungeon.com/'
+baseURL: 'http://www.returnofthemodularadventure.com/'
 languageCode: en-us
 title: Return of the Modular Adventure
 paginate: 5
@@ -11,7 +11,7 @@ Author:
 Params:
   subtitle: Subtitle
   description: Description
-  
+
   footer:
     since: 2022
     customText: "This is NEW custom text in the footer"
@@ -31,7 +31,7 @@ Params:
 
   widgets:
     homepage:
-      - type: search
+      # - type: search
       - type: archives
         params:
           limit: 5
@@ -40,11 +40,11 @@ Params:
           limit: 10
       - type: tag-cloud
         params:
-          limit: 10
-  
+          limit: 30
+
   colorScheme:
-    toggle: true
-    default: auto
+    toggle: false
+    default: dark
 
 taxonomies:
   tags: tags
@@ -66,9 +66,15 @@ menu:
       url: /adventures
       weight: '3'
       params:
-        icon: archives
-    - name: Search
-      url: /search
-      weight: '4'
-      params:
-        icon: search
+        icon: book
+    # - name: Search
+    #   url: /search
+    #   weight: '4'
+    #   params:
+    #     icon: search
+    # - name: Buy me a Coffee!
+    #   url: "https://www.ko-fi.com/cjdelee"
+    #   weight: '5'
+    #   params:
+    #     icon: coffee
+    #     newTab: true
