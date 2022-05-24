@@ -10,6 +10,7 @@ draft: true
 {{< rawhtml >}}
 <img src="/img/module-g1.jpg" alt="Cover of module G1: Steading of the Hill Giant Chief" style="float:right; height:450px; padding:15px"
 {{< /rawhtml >}}
+
 The first ever Dungeons & Dragons adventure created and published by TSR was module **G1: Steading of the Hill Giant Chief**. This would be the beginning of how adventures and campaigns were envisioned to be run by the creators of Dungeons & Dragons: Small, "bite-sized" adventures, each taking characters through only a handful of character levels, that would be strung together to create a unique and enriched game experience. Every campaign was different, even if everyone was using the same published adventures. Depending on how you connected these adventures together would change the overall experience and story drastically. \
 \
 Fast forward to 2014 and 5th Edition, and this modularity has all but evaporated. The first full adventure (excluding the Starter Set) published for 5e was **Hoard of the Dragon Queen**, the first adventure in the Tyranny of Dragons set. This one adventure took characters from level 1 all the way through to level 7. Add on **The Rise of Tiamat** and characters can be expected to reach level 15, a point when a lot of characters are retired. Across just 2 adventures, we have an entire campaign. For reference, the entire Against the Giants set of modules (3 adventures, G1, G2, and G3), were meant to take characters from level 8 to level 12.
