@@ -15,7 +15,7 @@ tags: ['Low Level', 'New GMs', 'Hexcrawl', 'Science Fantasy', 'Aberrations']
 [Back to the Archives](/adventures-archive)
 ___
 ## Introduction for Players
-The Festival of Stars is nigh! Once every 41 years, people all across the Magocracy of Alnor celebrate the turn of the skies, holding festivals and celebrations in every corner of the kingdom. The celebration marks the Signing, a time when the next Wizard-Heir may be found. A child born under the Sign, a constellation that appears in the sky only during the Festival, is destined to be the next ruler of the Magocracy. \
+The Festival of Falling Stars is nigh! Once every 41 years, people all across the Magocracy of Alnor celebrate the turn of the skies, holding festivals and celebrations in every corner of the kingdom. The celebration marks the Signing, a time when the next Wizard-Heir may be found. A child born under the Sign, a constellation that appears in the sky only during the Festival, is destined to be the next ruler of the Magocracy. \
 \
 The village of Belder's Post is set to make their festival one of particular remembrance. Ellena and Deidrich Whistlewind, simple farmers, are expecting a child very soon, and many residents of Belder's Post suspect it to be born during the Festival and named Wizard-Heir. But rarely do these things ever go to plan... \
 \

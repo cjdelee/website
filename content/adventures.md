@@ -29,7 +29,7 @@ This adventure is designed for 4-6 characters of levels 1-3
 [View Adventure](/adventures-archive/ruins-of-riverguard-keep)
 ___
 ## Enter the Strange
-Every year, the Festival of the Falling Stars draws hundreds from the villages of the countryside to the small town of Toren's Field. Usually a time for celebration and merriment, this year, the festival takes a turn. When a wizard's spell backfires, the entire town is uprooted, translocated across Existance to a distant realm of bizarre creatures and strange wilderness. Will you be able to save the town and bring everyone back home safely?
+Every year, the Festival of the Falling Stars draws hundreds from the villages of the countryside to the small town of Belder's Post. Usually a time for celebration and merriment, this year, the festival takes a turn. When a wizard's spell backfires, the entire town is uprooted, translocated across Existance to a distant realm of bizarre creatures and strange wilderness. Will you be able to save the town and bring everyone back home safely?
 
 This adventure is designed for 3-6 characters of levels 1-4
 
