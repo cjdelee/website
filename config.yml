@@ -43,7 +43,7 @@ Params:
           limit: 30
 
   colorScheme:
-    toggle: false
+    toggle: true
     default: dark
 
 taxonomies:
