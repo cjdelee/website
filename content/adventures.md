@@ -12,6 +12,7 @@ This page will host links to all adventures that people can read about and downl
   You can view the entire archive of adventures <a class="link" href="/adventures-archive">here!</a>
 </p>
 {{< /rawhtml >}}
+
 ___
 ## The Sewer-Smugglers Syndicate
 A low-level, introductory dungeon for new players and GMs alike. Descend into the sewers and discover the secret lair of a smuggling syndicate. Can you put a stop to their evil deeds?
